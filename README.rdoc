@@ -3,6 +3,11 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Ruby 2.0.0
+Rails 4.1.8
+
+
+
 Things you may want to cover:
 
 * Ruby version
